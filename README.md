@@ -10,7 +10,7 @@
 
 📫 How to find me: 
 
-[E-mail](mailto:luccas.flh@gmail.com) 
+[E-mail](mailto:luccas.fialho@gmail.com) 
 
 [Linkedin](https://www.linkedin.com/in/luccas-fialho/)
 
