@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Hi! I'm Luccas!
 
-<!--
-**luccas-fialho/luccas-fialho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Full Stack Dev!
 
-Here are some ideas to get you started:
+🎓 Studying React, Flask, Python 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Actually working on Web Projects 
+
+🌱 Learning Flask 
+
+📫 How to find me: 
+
+[E-mail](mailto:luccas.flh@gmail.com) 
+
+[Linkedin](https://www.linkedin.com/in/luccas-fialho/)
+
+---
+
+## 🧰 Techs and Tools
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=fff)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+
+---
+
+## 📈 Github Stats
+![My stats](https://github-readme-stats.vercel.app/api?username=luccas-fialho&show_icons=true&theme=dracula)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luccas-fialho&layout=compact&theme=dracula)
+
+---
+
+## ✨ Fun Facts
+- I really enjoy animes
+- I like to know how things work
