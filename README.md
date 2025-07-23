@@ -2,17 +2,20 @@
 
 💻 Full Stack Dev!
 
-🎓 Studying React, Flask, Python 
-
 🚀 Actually working on Web Projects 
 
-🌱 Learning Flask 
+🌱 Learning Flask, React and Next 
 
 📫 How to find me: 
 
-[E-mail](mailto:luccas.fialho@gmail.com) 
+<a href="mailto:luccas.fialho@gmail.com" target="_blank">
+  <img src="https://static.vecteezy.com/system/resources/thumbnails/016/716/465/small_2x/gmail-icon-free-png.png" width="50px"/>
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/luccas-fialho/" target="_blank" >
+  <img src="https://cdn-icons-png.flaticon.com/256/174/174857.png" width="50px"/>
+</a>
 
-[Linkedin](https://www.linkedin.com/in/luccas-fialho/)
 
 ---
 
@@ -25,7 +28,6 @@
 
 ## 📈 Github Stats
 ![My stats](https://github-readme-stats.vercel.app/api?username=luccas-fialho&show_icons=true&theme=dracula)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luccas-fialho&layout=compact&theme=dracula)
 
 ---
