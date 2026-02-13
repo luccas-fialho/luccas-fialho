@@ -1,37 +1,26 @@
 # 👋 Hi! I'm Luccas!
 
-💻 Full Stack Dev!
+Nowadays studying system development and analysis.
 
-🚀 Actually working on Web Projects 
+I mostly work with frontend stuff in my personal projects - Next, React, TypeScript, Tailwind.
 
-🌱 Learning Flask, React and Next 
+I challenge myself to work with backend too! - Nodejs, Express.
 
-📫 How to find me: 
+At the moment learning Flask, React and Next 
 
-<a href="mailto:luccas.fialho@gmail.com" target="_blank">
-  <img src="https://static.vecteezy.com/system/resources/thumbnails/016/716/465/small_2x/gmail-icon-free-png.png" width="50px"/>
-</a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/luccas-fialho/" target="_blank" >
-  <img src="https://cdn-icons-png.flaticon.com/256/174/174857.png" width="50px"/>
-</a>
+## How to find me:
+- [LinkedIn](https://linkedin.com/in/luccas-fialho)
+- [E-mail](mailto://luccas.fialho@gmail.com)
+- [My Website](https://react-portfolio-three-indol.vercel.app/)
 
+## Techs and Tools
+* Next, React, TypeScript, Tailwind
+* Framer Motion for animations
+* Nodejs, Express
+* MySQL
 
----
+## More 'bout me
 
-## 🧰 Techs and Tools
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=fff)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-
----
-
-## 📈 Github Stats
-![My stats](https://github-readme-stats.vercel.app/api?username=luccas-fialho&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luccas-fialho&layout=compact&theme=dracula)
-
----
-
-## ✨ Fun Facts
-- I really enjoy animes
+- I really enjoy animes - Full Metal Alchemist (favorite)
 - I like to know how things work
+- Into building things that are simple, useful and easy to understand
