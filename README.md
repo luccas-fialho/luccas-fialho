@@ -11,7 +11,7 @@ At the moment learning Flask, React and Next
 ## How to find me:
 - [LinkedIn](https://linkedin.com/in/luccas-fialho)
 - [E-mail](mailto://luccas.fialho@gmail.com)
-- [My Website](https://react-portfolio-three-indol.vercel.app/)
+- [My Website](https://luccasfialho.vercel.app/)
 
 ## Techs and Tools
 * Next, React, TypeScript, Tailwind
