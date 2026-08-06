@@ -4,7 +4,7 @@ Nowadays studying system development and analysis.
 
 I mostly work with frontend stuff in my personal projects - Next, React, TypeScript, Tailwind.
 
-I challenge myself to work with backend too! - Nodejs, Express.
+I work with backend too! - Python, Nodejs, Express.
 
 At the moment learning Flask, React and Next 
 
@@ -16,8 +16,8 @@ At the moment learning Flask, React and Next
 ## Techs and Tools
 * Next, React, TypeScript, Tailwind
 * Framer Motion for animations
-* Nodejs, Express
-* MySQL
+* Python, Nodejs, Express
+* MySQL, PostgresSQL
 
 ## More 'bout me
 
